@@ -1,0 +1,7 @@
+[project]
+name = "metadata-operational-lambda"
+version = "0.1.0"
+description = "Python project to manipulate metadata within AWS"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
