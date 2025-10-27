@@ -4,4 +4,7 @@ version = "0.1.0"
 description = "Python project to manipulate metadata within AWS"
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "boto3>=1.40.59",
+    "pytest>=8.4.2",
+]
